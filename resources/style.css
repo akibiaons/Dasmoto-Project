@@ -5,3 +5,8 @@ h1 {
     color: khaki;
     text-align: center;
 }
+
+.main-img {
+    width: auto;
+    height: 20px;
+}
