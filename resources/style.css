@@ -6,7 +6,8 @@ h1 {
     text-align: center;
 }
 
-img.main-img {
+.main-img {
     width: auto;
-    height: 20px;
+    height: 100px;
+    position: absolute;
 }
