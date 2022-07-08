@@ -5,3 +5,24 @@ h1 {
     color: khaki;
 }
 
+#brush {
+    background-color: aquamarine;
+}
+
+.item h2 {
+    font-size: 32px;
+    color: black;
+}
+
+.price {
+    font-weight: bold;
+    color: blue;
+}
+
+#frames {
+    background-color: lightcoral;
+}
+
+#paint {
+    background-color: lightblue;
+}
